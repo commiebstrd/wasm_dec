@@ -1,0 +1,4 @@
+[submodule "wasm_spec"]
+	path = external/wasm_spec
+	url = https://github.com/WebAssembly/spec.git
+	ignore = all
